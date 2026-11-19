@@ -1,4 +1,3 @@
-
 customer_name = input("Enter customer name: ")
 balance = float(input("Enter initial account balance: "))
 
@@ -16,3 +15,4 @@ else:
 print("\n----- Account Details -----")
 print("Customer Name:", customer_name)
 print("Updated Account Balance:", balance)
+
